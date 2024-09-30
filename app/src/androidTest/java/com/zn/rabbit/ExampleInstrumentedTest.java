@@ -1,4 +1,4 @@
-package com.zn.rabbit_android;
+package com.zn.rabbit;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.zn.rabbit_android", appContext.getPackageName());
+        assertEquals("com.zn.rabbit", appContext.getPackageName());
     }
 }

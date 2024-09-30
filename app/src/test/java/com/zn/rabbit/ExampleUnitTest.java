@@ -1,4 +1,4 @@
-package com.zn.rabbit_android;
+package com.zn.rabbit;
 
 import org.junit.Test;
 
